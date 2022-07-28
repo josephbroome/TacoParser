@@ -6,6 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="C:\Users\serge\repos\FinalProject1\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Update="Taco_Bell-US-AL-Alabama.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
