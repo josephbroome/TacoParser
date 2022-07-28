@@ -6,6 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Update="BugerKing-US-AL.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="Taco_Bell-US-AL-Alabama.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
